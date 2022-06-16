@@ -12,7 +12,7 @@
   <img align="center" alt="MIckael-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="MIckael-gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
   <img align="center" alt="MIckael-solidity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg">
-  <img align="center" alt="MIckael-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="MIckael-SQL" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
           
   
   <img align="right" alt="Mickael-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/MickaelZ7/Web_list_old/orkut/img/download20220605154938.png">
